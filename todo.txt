@@ -1,2 +1,4 @@
 - Customizable font
 - Customizable font size
+
+Control panel shows on hover, or with cmd/ctrl + k, is below the text to left.
